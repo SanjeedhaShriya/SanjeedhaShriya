@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SanjeedhaShriya
-- 👀 I’m interested in coding and learning new and interesting stuff
-- 🌱 I’m currently learning various languages like java and python
+- 👀 I’m interested in coding and learning new and interesting technologies and top of that being creative. 
 - 📫 How to reach me : You can send a mail at sanjeedhashriya1@gmail.com
 
 <!---
